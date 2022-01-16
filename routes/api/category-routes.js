@@ -45,12 +45,10 @@ router.post("/", (req, res) => {
   }
 });
 
-router.put("/:id", (req, res) => {
-  // update a category by its `id` value
-});
+// update a category by its `id` value
+router.put("/:id", (req, res) => {});
 
-router.delete("/:id", (req, res) => {
-  // delete a category by its `id` value
-});
+// delete a category by its `id` value
+router.delete("/:id", (req, res) => {});
 
 module.exports = router;

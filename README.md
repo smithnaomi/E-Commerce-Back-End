@@ -2,14 +2,39 @@
 
 _by Naomi Smith_
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Build](#build)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Tests](#tests)
+- [Questions](#questions)
+- [License](#license)
+
 ## Overview
 
-<!-- <p> A command-line application that user input will create profiles for employee. User input is accepted and team members information is created. Information is displayed in a team member format in an HTML file. Information is displayed based off of employee's role. The displayed information provide employee name, ID, email address, office number, Github or school name.  Creating an TDD application was difficult. As a growing developer, when you have failed test after failed test; you lay back and say, "okay friend lets dance". Having to go through details in your code was reinforcing what i'm learning as well as seeing what mistakes make the difference. All test past and application working with me, I am happy to give you the Employee Generator. <p> -->
+<p> A functional backend for an e-commerce platform. Using sequelize to interact with  MySQL database; which was added to an environment variable file. Creating models and the listing the requirements listed for each one. Using Insomnia Core to display data for category, products and tags. Once the data for these routes are displayed API post, put and delete are tested. The test provides the ability to successfully create, update and delete data in the database.  <p>
+
+## Build
+
+- [MySQL](https://www.mysql.com/)
+- [Insomnia](https://insomnia.rest/)
+
+## Installation
+
+- [MySQL2](https://www.npmjs.com/package/mysql2)
+- [Sequelize](https://www.npmjs.com/package/sequelize)
+- [dotenv](https://www.npmjs.com/package/dotenv)
 
 ## Usage
 
 <!--
 ![Live Demo](assets/EG.gif) -->
+
+# Test
+
+<p>In the terminal run command: node server.js<p>
 
 ## Questions
 
